@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "proyectoabelg",
+  "private_key_id": "1b0a6594094bd0eb6c68a83881c483a889865cd9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC92/INeETHzyHb\nGZD1DRMuLFfV5EhiMGvzu9mTUghz0dRjr9Bx9ECau89ObhHYgOrri0gPfzh4mZxa\npTQy34PvSTP/Ym39NKdUUxc3HKqsbfWBzulsb5odUd3J5mpIjemeEmV9BHtJQY/Y\nHwvu0fdHtoxOVizt/U21RkBWirp33j857CiH/GU2cUZ2JnP9pqXjwFKgJO0PLWw7\nDqE8aOsQdNKUyvCbZD4rnX6Si2dmYur9cMTc1/G/QIzf9ttsvSaV+sQpI/PZRsjZ\n6ugpXl0OKRoTXqpw0RxKs+WQFDfW3QSC0dWcIUmR6lamFA8v5U/LEztc1TDipV8R\n4lT5UB/1AgMBAAECggEAD73+8fL48QBRtFMIW+k7n+Z5WfjVr56INOtsfPSeUswh\nKirXw7sW6D2OUNh7jlISKHmh/fb0fbtu5W0xSM6Tp/GP6CsHJ6mH/kvtbtpnpGhx\npNO9MwqF4sx48VazlVR+/GZWF+mZN1fCT48zdBfgwwd11sD6dLk+CjvK9eIG2A1m\n41FaRkgSLw12/+DM3iNQhSQnpelcPF3CldFyhCQGim1EYpDhRw4jx+vRcz0LvDwz\nVbmGTEOSn8KNGKAwWzVqnEKoueDqeIciFjrYbod1rCYvkSVBCKUCf7ZGj7c8RLjp\nK1ChZxK3dv8GN3+pFUNaoqamdJw3Nd8FuWSrID5+OQKBgQDm5iXg8T3s0HjMuh3X\nRX8GQFAx+I9Ny3FObHLaiwcaQUd0KiqQvSaUasbadJWC0VejMwVtbaSdp8Xc1YcD\n3hsSQzxhDan4bAqOT+RuDuT9G3b3QCSwS7+pToi2AA2UXBNHZuOr75dFowzd5EG8\nmomEoYkMEWWaurbMFnT5i7EXBwKBgQDSf6uiV2ktiJEEjcfAqvSGRXegyvbaElzo\nZz7zwA4dY94vOCiIMrDbT5pecAEPNEgS13nBoc23PoadC/plS3a++USDHgmPMTwb\nAUQRE2mhWzG5tJDXSZ/Dms0jyQogIwMf79gUxVBTkFZ9QU8jhfrYKiOGfAXIv7Y/\nq7J9xq22IwKBgHGvp77ViPPswU2r5b10jlJ5oAK6q3RWUveWFgbcpSacNZ5QlJyn\nRTOWT0qIVIUQpeHI4Uc70O1/CcDtsYiJ9zJKwJPYsnOKXrgrRgGae8zTlQOwJWBY\nK4olDNLvu7/sheGGG1swoH69BTzLgkJmpIcVMfErL6e7fv2FoRqtWQhJAoGBAJZk\nHtUqzHt6sdlmDowp1/BCm3im6fzd18E3WrO9yJfY7TohTlwYk2DtG6ZTMX6SZNgJ\nWPUtzBMaugRkNW6/nsRMxVVEVaIXlBDbM61biEF/LSS3zC/0aw/OfrgNf418VlQw\nANq+Kmi5nAF7crY3mANu/9iqrVtDFUuiOTFBjISvAoGAUp/ie1ABj6rkf4LQ4w7t\nwxQgj6vbue0ojiNq8aR74vNBuw5+qXIHd8mmFAZhMHk5DK4zUzX2mL5j8cqKyt4b\nNVGLJg/5KFjH1kUxbdNXexRWdHix3jyq6nt55gAGkONRIue4ne+ZyMFoISazuYyj\nLcC2trWAuiCmWYaE7+q58yc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "abelg-178@proyectoabelg.iam.gserviceaccount.com",
+  "client_id": "108184353396050072282",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/abelg-178%40proyectoabelg.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

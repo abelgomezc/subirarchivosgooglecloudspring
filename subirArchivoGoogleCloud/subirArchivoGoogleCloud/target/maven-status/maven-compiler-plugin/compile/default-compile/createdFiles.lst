@@ -1,0 +1,4 @@
+com\subirarchivogooglecloud\subirArchivoGoogleCloud\service\FileService.class
+com\subirarchivogooglecloud\subirArchivoGoogleCloud\service\FileServiceImpl.class
+com\subirarchivogooglecloud\subirArchivoGoogleCloud\SubirArchivoGoogleCloudApplication.class
+com\subirarchivogooglecloud\subirArchivoGoogleCloud\controller\FileController.class
